@@ -1,4 +1,6 @@
-##### **Project Outline:**
+#### Main file to see - CaseCognizer.ipynb
+
+#### **Project Outline:**
 
 Developing an AI interface for legal document relevance assessment. Ensureing that each algorithm is purposefully applied to address specific aspects of the problem, leading to a comprehensive and effective solution.
 
